@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bulbasaur",
+        "precio": 600,
+        "img": "./multimedia/bulbasaur.png",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Charmander",
+        "precio": 600,
+        "img": "./multimedia/charmander.png",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Squirtle",
+        "precio": 600,
+        "img": "./multimedia/squirtle.png",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Riolu",
+        "precio": 750,
+        "img": "./multimedia/riolu.png",
+        "cantidad": 1
+    }
+]
